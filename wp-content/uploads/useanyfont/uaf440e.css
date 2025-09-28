@@ -1,0 +1,29 @@
+				@font-face {
+					font-family: 'mbook';
+					src: url('180918053318MBook.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mbook{font-family: 'mbook' !important;}
+
+						@font-face {
+					font-family: 'scondl';
+					src: url('180918053347SCondL.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.scondl{font-family: 'scondl' !important;}
+
+						p{
+					font-family: 'mbook' !important;
+				}
+						h3{
+					font-family: 'mbook' !important;
+				}
+						h1{
+					font-family: 'scondl' !important;
+				}
+						h4{
+					font-family: 'scondl' !important;
+				}
+		
